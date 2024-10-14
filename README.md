@@ -1,5 +1,5 @@
-#Hire Smart!! 
-<p>
+<h1>#Hire Smart!! </h1>
+<p><i>
 With a passion for providing exceptional service and a natural ability to connect <br>
   with people, I bring a fun and friendly energy that enhances any team. 
   <p>
@@ -9,11 +9,11 @@ With a passion for providing exceptional service and a natural ability to connec
   <br>
   a positive and engaging atmosphere.
 </p>
-<p>I'm also great with technology and code. If anything goes wrong with computers, <br>
+<p>I'm also great with computers, technology, and code. <br>
+  If anything goes wrong with computer systems, <br>
   I may be able to help!</p>
+</i>
 
-
-<body>
   <header>
     <h1>Michael Hall</h1>
     <p>New Philadelphia, OH</p>
@@ -67,6 +67,5 @@ With a passion for providing exceptional service and a natural ability to connec
       <li>Inventory & Bar Management</li>
     </ul>
   </section>
-</body>
-</html>
+
 
