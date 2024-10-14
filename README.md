@@ -1,6 +1,13 @@
 # Hire Michael Hall! 
 <p>
-With a passion for providing exceptional service and a natural ability to connect with people, I bring a fun and friendly energy that enhances any team. I thrive in dynamic environments, ensuring every guest has a memorable experience. I would be a great addition to your team, contributing not just my skills but also a positive and engaging atmosphere.
+With a passion for providing exceptional service and a natural ability to connect <br>
+  with people, I bring a fun and friendly energy that enhances any team. 
+  <p>
+    
+  I thrive in dynamic environments, ensuring every guest has a memorable experience. </p>
+  I would be a great addition to your team, contributing not just my skills but also 
+  <br>
+  a positive and engaging atmosphere.
 </p>
 
 
