@@ -1,7 +1,7 @@
 <h1>#Hire Smart!! </h1>
 <p>
   <i>
-  <img width="18%" src="images/profile_photo.jpg"><p>
+  <p>
   With a passion for providing exceptional service and a natural ability to connect <br>
   with people, I bring a fun and friendly energy that enhances any team. 
 </p>
@@ -17,6 +17,7 @@
   I may be able to help!
 </p>
 </i>
+<img width="18%" src="images/profile_photo.jpg">
 
 <header>
     <h1>Michael Hall</h1>
