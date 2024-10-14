@@ -70,12 +70,14 @@
         a:hover {
             text-decoration: underline; /* Underline on hover */
         }
-        .omimage, .martini {
-            filter: invert(70%); /* invert om image */
-            display: flex;
-            width: 10%; /* Adjust width */
+        .imgcolm {
+            flex: 50%;
+            padding: 5px;
             margin: 10px auto; /* Center the graphic */
-            justify-content: space-between;
+        }
+        .imgrow {
+            display: flex;
+            filter: invert(70%); /* invert images */
         }
         .profile-photo {
             display: block;
@@ -137,12 +139,14 @@
             computer systems, I may be able to help!
         </p>
         </i>
-     
-        <img class="omimage" src="https://t3.ftcdn.net/jpg/00/01/68/50/240_F_1685008_FMs7U0j7UVWXZ4SyLMskm9NPunJKqD.jpg" alt="Hire Cute! Hire Smart!"> 
-                
-                
-        <img class="martini" src="https://clipartix.com/wp-content/uploads/2016/08/Martini-glass-cocktail-glass-clip-art-vector-free-clipart-free.png" alt="unique craft cocktails!">
-            
+     <div class="imgrow">
+         <div class="imgcolm">
+             <img class="omimage" src="https://t3.ftcdn.net/jpg/00/01/68/50/240_F_1685008_FMs7U0j7UVWXZ4SyLMskm9NPunJKqD.jpg" alt="Hire Cute! Hire Smart!"> 
+         </div>
+         <div class="imgcolm">
+             <img class="martini" src="https://clipartix.com/wp-content/uploads/2016/08/Martini-glass-cocktail-glass-clip-art-vector-free-clipart-free.png" alt="unique craft cocktails!">
+         </div>
+     </div>
     
     </section>
 
