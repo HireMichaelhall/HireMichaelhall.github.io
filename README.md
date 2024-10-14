@@ -1,27 +1,30 @@
 <h1>#Hire Smart!! </h1>
-<p><i>
-  <img width="18%" src="images/profile_photo.jpg">
-With a passion for providing exceptional service and a natural ability to connect <br>
+<p>
+  <i>
+  <img width="18%" src="images/profile_photo.jpg"><p>
+  With a passion for providing exceptional service and a natural ability to connect <br>
   with people, I bring a fun and friendly energy that enhances any team. 
-  <p>
-    
-  I thrive in dynamic environments, ensuring every guest has a memorable experience. </p>
+</p>
+<p>  
+  I thrive in dynamic environments, ensuring every guest has a memorable experience. 
+  <br>
   I would be a great addition to your team, contributing not just my skills but also 
   <br>
   a positive and engaging atmosphere.
 </p>
 <p>I'm also great with computers, technology, and code. <br>
   If anything goes wrong with computer systems, <br>
-  I may be able to help!</p>
+  I may be able to help!
+</p>
 </i>
 
-  <header>
+<header>
     <h1>Michael Hall</h1>
     <p>New Philadelphia, OH</p>
     <p>872-242-8185</p>
     <p>michael.thee.michael@gmail.com</p>
-  </header>
-  <section id="professional-experience">
+</header>
+<section id="professional-experience">
     <h2>Professional Experience</h2>
     <div class="job">
       <h3>Bartender & Server</h3>
@@ -56,8 +59,8 @@ With a passion for providing exceptional service and a natural ability to connec
         <li>Played a key role in improving customer retention.</li>
       </ul>
     </div>
-  </section>
-  <section id="skills">
+</section>
+<section id="skills">
     <h2>Skills</h2>
     <ul>
       <li>Craft Cocktails & Mixology</li>
