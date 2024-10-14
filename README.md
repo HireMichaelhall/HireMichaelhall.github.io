@@ -1,9 +1,7 @@
-# HireMichaelhall.github.io
+# HireMichaelHall.github.io
 
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Michael Hall - Resume</title>
 <body>
   <header>
     <h1>Michael Hall</h1>
