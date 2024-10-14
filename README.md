@@ -1,4 +1,4 @@
-# Hire Michael Hall! 
+#Hire Smart!! 
 <p>
 With a passion for providing exceptional service and a natural ability to connect <br>
   with people, I bring a fun and friendly energy that enhances any team. 
