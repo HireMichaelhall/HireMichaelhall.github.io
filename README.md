@@ -9,7 +9,8 @@ With a passion for providing exceptional service and a natural ability to connec
   <br>
   a positive and engaging atmosphere.
 </p>
-
+<p>I'm also great with technology and code. If anything goes wrong with computers, <br>
+  I may be able to help!</p>
 
 
 <body>
