@@ -4,27 +4,6 @@
 <html>
 <head>
   <title>Michael Hall - Resume</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-
-    header {
-      text-align: center;
-    }
-
-    section {
-      margin-bottom: 20px;
-    }
-
-    .job {
-      border: 1px solid #ccc;
-      padding: 10px;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
 <body>
   <header>
     <h1>Michael Hall</h1>
