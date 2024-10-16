@@ -8,10 +8,14 @@
 </div>
 <section>
 <div>
+    <h3>Keen Eye for Detail 
+    </h3>
+        <h4>Innate Commitment to Top-Notch Service
+        </h4>
     <p><i>
-  <h2>With a passion for providing exceptional service and a natural ability to connect <br>
+  <h9>With a passion for providing exceptional service and a natural ability to connect <br>
   with people, I bring a fun and friendly energy that enhances any team. 
-  </h2></p>
+  </h9></p>
 <p>  
   <h8>I thrive in dynamic environments, ensuring every guest has a memorable experience. 
   <br>
