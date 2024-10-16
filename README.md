@@ -1,4 +1,13 @@
 
+
+<img width="18%" src="images/profile_photo.jpg">
+
+<header>
+    <h1>Michael Hall</h1>
+    <p>New Philadelphia, OH</p>
+    <p>872-242-8185</p>
+    <p>michael.thee.michael@gmail.com</p>
+</header>
 <p>
   <i>
   <p>
@@ -15,16 +24,8 @@
 <p>I'm also great with computers, technology, and code. <br>
   If anything goes wrong with computer systems, <br>
   I may be able to help!
-</p>
 </i>
-<img width="18%" src="images/profile_photo.jpg">
-
-<header>
-    <h1>Michael Hall</h1>
-    <p>New Philadelphia, OH</p>
-    <p>872-242-8185</p>
-    <p>michael.thee.michael@gmail.com</p>
-</header>
+</p>
 <section id="professional-experience">
     <h2>Professional Experience</h2>
     <div class="job">
