@@ -1,5 +1,5 @@
 
-<section>
+<div>
 <img width="18%" src="images/profile_photo.jpg">
 
 <header>
@@ -8,12 +8,11 @@
     <p>872-242-8185</p>
     <p>michael.thee.michael@gmail.com</p>
 </header>
-</section>
-<section>
+</div>
+<div>
     <h9>
-<p>
+        <p>
   <i>
-  <p>
   With a passion for providing exceptional service and a natural ability to connect <br>
   with people, I bring a fun and friendly energy that enhances any team. 
 </p>
@@ -30,7 +29,7 @@
 </i>
 </p>
     </h9>
-</section>
+</div>
 <section id="professional-experience">
     <h2>Professional Experience</h2>
     <div class="job">
