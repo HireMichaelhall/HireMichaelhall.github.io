@@ -10,25 +10,22 @@
 </header>
 </div>
 <div>
-    <h9>
-        <p>
-  <i>
-  With a passion for providing exceptional service and a natural ability to connect <br>
+    <p><i>
+  <h9>With a passion for providing exceptional service and a natural ability to connect <br>
   with people, I bring a fun and friendly energy that enhances any team. 
-</p>
+  </h9></p>
 <p>  
-  I thrive in dynamic environments, ensuring every guest has a memorable experience. 
+  <h9>I thrive in dynamic environments, ensuring every guest has a memorable experience. 
   <br>
   I would be a great addition to your team, contributing not just my skills but also 
   <br>
   a positive and engaging atmosphere.
-</p>
-<p>I'm also great with computers, technology, and code. <br>
+  </h9></p>
+<p><h9>I'm also great with computers, technology, and code. <br>
   If anything goes wrong with computer systems, <br>
   I may be able to help!
-</i>
+</i></h9>
 </p>
-    </h9>
 </div>
 <section id="professional-experience">
     <h2>Professional Experience</h2>
