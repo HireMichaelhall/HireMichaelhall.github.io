@@ -1,14 +1,12 @@
 
 <div>
 <img width="18%" src="images/profile_photo.jpg">
-
-<header>
     <h1>Michael Hall</h1>
     <p>New Philadelphia, OH</p>
     <p>872-242-8185</p>
     <p>michael.thee.michael@gmail.com</p>
-</header>
 </div>
+<section>
 <div>
     <p><i>
   <h9>With a passion for providing exceptional service and a natural ability to connect <br>
@@ -27,6 +25,7 @@
 </i></h9>
 </p>
 </div>
+    </section>
 <section id="professional-experience">
     <h2>Professional Experience</h2>
     <div class="job">
