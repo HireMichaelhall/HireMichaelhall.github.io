@@ -1,5 +1,5 @@
 
-
+<section>
 <img width="18%" src="images/profile_photo.jpg">
 
 <header>
@@ -8,6 +8,8 @@
     <p>872-242-8185</p>
     <p>michael.thee.michael@gmail.com</p>
 </header>
+</section>
+<section>
 <p>
   <i>
   <p>
@@ -26,6 +28,7 @@
   I may be able to help!
 </i>
 </p>
+</section>
 <section id="professional-experience">
     <h2>Professional Experience</h2>
     <div class="job">
