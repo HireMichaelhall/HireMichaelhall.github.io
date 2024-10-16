@@ -1,4 +1,4 @@
-<h1>#Hire Smart!! </h1>
+
 <p>
   <i>
   <p>
