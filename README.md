@@ -9,20 +9,20 @@
 <section>
 <div>
     <p><i>
-  <h9>With a passion for providing exceptional service and a natural ability to connect <br>
+  <h8>With a passion for providing exceptional service and a natural ability to connect <br>
   with people, I bring a fun and friendly energy that enhances any team. 
-  </h9></p>
+  </h8></p>
 <p>  
-  <h9>I thrive in dynamic environments, ensuring every guest has a memorable experience. 
+  <h8>I thrive in dynamic environments, ensuring every guest has a memorable experience. 
   <br>
   I would be a great addition to your team, contributing not just my skills but also 
   <br>
   a positive and engaging atmosphere.
-  </h9></p>
-<p><h9>I'm also great with computers, technology, and code. <br>
+  </h8></p>
+<p><h8>I'm also great with computers, technology, and code. <br>
   If anything goes wrong with computer systems, <br>
   I may be able to help!
-</i></h9>
+</i></h8>
 </p>
 </div>
     </section>
