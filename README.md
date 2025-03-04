@@ -2,7 +2,7 @@
 <div>
 <img width="18%" src="images/profile_photo.jpg">
     <h1>Michael Hall</h1>
-    <p>New Philadelphia, OH</p>
+    <p>Denver, CO</p>
     <p>872-242-8185</p>
     <p>michael.thee.michael@gmail.com</p>
 </div>
